@@ -1,0 +1,24 @@
+h1 {
+    font-family: "Brush Script MT", sans-serif;
+    font-size: 60px;
+    text-align: center;
+    background-color: lightgrey;
+}
+
+#featuring {
+    font-family: "Trebuchet MS", sans-serif;
+    text-align: center;
+    color: navy;
+    background-color: lightcyan;
+}
+
+img {
+    height: 350px;
+    width: auto;
+}
+
+ul,
+ol {
+    font-family: "Tahoma";
+    color: skyblue;
+}
